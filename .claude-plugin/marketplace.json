@@ -1,0 +1,16 @@
+{
+  "name": "mccabes-razor",
+  "owner": {
+    "name": "Batuhan Badak",
+    "email": "batuhannbadak@gmail.com",
+    "url": "https://github.com/batuhanbadak"
+  },
+  "description": "A coding-agent skill for clearer control flow.",
+  "plugins": [
+    {
+      "name": "mccabes-razor",
+      "source": "./",
+      "description": "Shape and simplify decision-heavy control flow without gaming complexity metrics."
+    }
+  ]
+}

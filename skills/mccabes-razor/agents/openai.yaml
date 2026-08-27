@@ -1,0 +1,4 @@
+interface:
+  display_name: "McCabe's Razor"
+  short_description: "Control-flow clarity without metric gaming"
+  default_prompt: "Use $mccabes-razor to shape or review the decision-heavy code in this task."

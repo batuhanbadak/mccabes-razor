@@ -1,0 +1,18 @@
+{
+  "name": "mccabes-razor",
+  "version": "0.1.0",
+  "description": "Shape and simplify decision-heavy control flow without gaming complexity metrics.",
+  "author": {
+    "name": "Batuhan Badak",
+    "email": "batuhannbadak@gmail.com"
+  },
+  "homepage": "https://github.com/batuhanbadak/mccabes-razor",
+  "repository": "https://github.com/batuhanbadak/mccabes-razor",
+  "license": "MIT",
+  "keywords": [
+    "cyclomatic-complexity",
+    "cognitive-complexity",
+    "refactoring",
+    "code-quality"
+  ]
+}
